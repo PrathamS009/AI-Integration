@@ -1,0 +1,14 @@
+python-dotenv==0.9.9
+openai==1.98.0
+
+#to enchance capabilities thorugh RAG
+llama-index==0.13.4
+#to pdf management
+pypdf==6.0.0
+#to convert text into numeric vectors 
+sentence_transformers==5.1.0
+
+fastapi==0.116.1
+uvicorn==0.35.0
+
+dash==3.2.0
