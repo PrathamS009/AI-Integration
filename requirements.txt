@@ -11,4 +11,8 @@ sentence_transformers==5.1.0
 fastapi==0.116.1
 uvicorn==0.35.0
 
-dash==3.2.0
+ollama==0.5.3
+llama-index-llm-ollama==0.7.1
+llama-index-embeddings-ollama==0.8.2
+
+streamlit==1.49.1
