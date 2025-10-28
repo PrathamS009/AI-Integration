@@ -1,0 +1,8 @@
+# Virtual Environment of 3.12
+AI-venv/
+
+# Data
+RAG_Using_llama2_HF/pdf_data/
+
+# Environment Variables
+RAG_Using_llama2_HF/.env
